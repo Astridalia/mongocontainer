@@ -1,4 +1,4 @@
-module github.com/6d6577/mongocontainer
+module github.com/astridalia/mongocontainer
 
 go 1.20
 
